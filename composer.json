@@ -1,0 +1,14 @@
+{
+    "name": "tac/unity2d-project-base",
+    "description": "Base Project for Unity 2020.1 2D projects",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tac Tacelosky",
+            "email": "tacman@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
